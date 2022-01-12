@@ -2,6 +2,5 @@ streamlit
 matplotlib
 urlextract
 wordcloud
-collections
 pandas
 emoji
